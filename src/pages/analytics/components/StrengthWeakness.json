@@ -1,0 +1,1337 @@
+{
+  "strengths": [
+    {
+      "topicid": 3,
+      "topic": "Probability",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 28,
+      "total_question_count": 63,
+      "pace": 38.32,
+      "accuracy": 0.07,
+      "predicted_accuracy": 0.16,
+      "sw_value": 0.14,
+      "concepts": {
+        "strengths": [
+          {
+            "conceptid": 38,
+            "concept": "P and C Based (Selection/Arrangement)",
+            "attempted_question_count": 16,
+            "total_question_count": 29,
+            "pace": 66.66,
+            "accuracy": 0.09,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.22
+          },
+          {
+            "conceptid": 38,
+            "concept": "P and C Based (Selection/Arrangement)",
+            "attempted_question_count": 1,
+            "total_question_count": 3,
+            "pace": 3.68,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.22
+          }
+        ],
+        "weaknesses": [
+          {
+            "conceptid": 44,
+            "concept": "Fundamentals",
+            "attempted_question_count": 2,
+            "total_question_count": 7,
+            "pace": 0.27,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 45,
+            "concept": "Others",
+            "attempted_question_count": 1,
+            "total_question_count": 8,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.04,
+            "sw_value": 0.09
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 39,
+            "concept": "Dice (Counting)",
+            "attempted_question_count": 2,
+            "total_question_count": 6,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 40,
+            "concept": "Unbiased Coin (and Similar)",
+            "attempted_question_count": 2,
+            "total_question_count": 4,
+            "pace": 0.44,
+            "accuracy": 0.17,
+            "predicted_accuracy": 0.75,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 41,
+            "concept": "Biased Coin (and Similar)",
+            "attempted_question_count": 3,
+            "total_question_count": 5,
+            "pace": 0.47,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.33,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 43,
+            "concept": "Venn Diagrams",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 1.0,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    }
+  ],
+  "weaknesses": [
+    {
+      "topicid": 1,
+      "topic": "Numbers",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 132,
+      "total_question_count": 246,
+      "pace": 5.62,
+      "accuracy": 0.01,
+      "predicted_accuracy": 0.24,
+      "sw_value": 0.01,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 20,
+            "concept": "Divisibility and Remainder",
+            "attempted_question_count": 28,
+            "total_question_count": 46,
+            "pace": 0.48,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.3,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 21,
+            "concept": "Rounding",
+            "attempted_question_count": 2,
+            "total_question_count": 2,
+            "pace": 0.39,
+            "accuracy": 0.1,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 24,
+            "concept": "Factors and Multiples (HCF, LCM)",
+            "attempted_question_count": 36,
+            "total_question_count": 55,
+            "pace": 12.13,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.18,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 25,
+            "concept": "Place Value",
+            "attempted_question_count": 16,
+            "total_question_count": 26,
+            "pace": 0.46,
+            "accuracy": 0.04,
+            "predicted_accuracy": 0.38,
+            "sw_value": 0.02
+          },
+          {
+            "conceptid": 26,
+            "concept": "Integers (Types of Numbers)",
+            "attempted_question_count": 10,
+            "total_question_count": 17,
+            "pace": 24.92,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.06,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 27,
+            "concept": "Number Line",
+            "attempted_question_count": 8,
+            "total_question_count": 9,
+            "pace": 0.34,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.33,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 28,
+            "concept": "Factorization",
+            "attempted_question_count": 5,
+            "total_question_count": 19,
+            "pace": 0.22,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.35,
+            "sw_value": 0.07
+          },
+          {
+            "conceptid": 29,
+            "concept": "Fundamentals",
+            "attempted_question_count": 13,
+            "total_question_count": 16,
+            "pace": 0.84,
+            "accuracy": 0.04,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 30,
+            "concept": "Others",
+            "attempted_question_count": 1,
+            "total_question_count": 7,
+            "pace": 5.75,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.04,
+            "sw_value": 0.09
+          },
+          {
+            "conceptid": 20,
+            "concept": "Divisibility and Remainder",
+            "attempted_question_count": 1,
+            "total_question_count": 13,
+            "pace": 2.25,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.3,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 24,
+            "concept": "Factors and Multiples (HCF, LCM)",
+            "attempted_question_count": 1,
+            "total_question_count": 14,
+            "pace": 2.85,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.18,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 25,
+            "concept": "Place Value",
+            "attempted_question_count": 1,
+            "total_question_count": 4,
+            "pace": 2.19,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.38,
+            "sw_value": 0.02
+          },
+          {
+            "conceptid": 28,
+            "concept": "Factorization",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 2.19,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.35,
+            "sw_value": 0.07
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 22,
+            "concept": "Repeating",
+            "attempted_question_count": 4,
+            "total_question_count": 5,
+            "pace": 0.55,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.5,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 23,
+            "concept": "Cyclicity",
+            "attempted_question_count": 5,
+            "total_question_count": 12,
+            "pace": 0.49,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.15,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+
+    {
+      "topicid": 11,
+      "topic": "Exponents",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 18,
+      "total_question_count": 32,
+      "pace": 1.27,
+      "accuracy": 0.03,
+      "predicted_accuracy": 0.29,
+      "sw_value": 0.11,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 116,
+            "concept": "Fundamentals",
+            "attempted_question_count": 14,
+            "total_question_count": 27,
+            "pace": 1.6,
+            "accuracy": 0.05,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 115,
+            "concept": "Exponents",
+            "attempted_question_count": 4,
+            "total_question_count": 5,
+            "pace": 0.11,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 12,
+      "topic": "Ratio and Fractions",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 31,
+      "total_question_count": 45,
+      "pace": 1.83,
+      "accuracy": 0.03,
+      "predicted_accuracy": 0.39,
+      "sw_value": 0.04,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 118,
+            "concept": "Ratio and Fraction",
+            "attempted_question_count": 9,
+            "total_question_count": 9,
+            "pace": 1.06,
+            "accuracy": 0.03,
+            "predicted_accuracy": 0.29,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 119,
+            "concept": "Fundamentals",
+            "attempted_question_count": 21,
+            "total_question_count": 36,
+            "pace": 2.25,
+            "accuracy": 0.04,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 119,
+            "concept": "Fundamentals",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          }
+        ],
+        "unattempted": []
+      }
+    },
+    {
+      "topicid": 13,
+      "topic": "Rate and Time",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 23,
+      "total_question_count": 56,
+      "pace": 1.21,
+      "accuracy": 0.02,
+      "predicted_accuracy": 0.2,
+      "sw_value": 0.06,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 123,
+            "concept": "Work Rate",
+            "attempted_question_count": 9,
+            "total_question_count": 17,
+            "pace": 0.27,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.36,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 124,
+            "concept": "Unitary Method",
+            "attempted_question_count": 7,
+            "total_question_count": 16,
+            "pace": 0.73,
+            "accuracy": 0.05,
+            "predicted_accuracy": 0.09,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 125,
+            "concept": "Fundamentals",
+            "attempted_question_count": 3,
+            "total_question_count": 9,
+            "pace": 4.96,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 125,
+            "concept": "Fundamentals",
+            "attempted_question_count": 1,
+            "total_question_count": 4,
+            "pace": 2.42,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 121,
+            "concept": "Relative Motion",
+            "attempted_question_count": 1,
+            "total_question_count": 5,
+            "pace": 1.95,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.33,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 122,
+            "concept": "Average Speed",
+            "attempted_question_count": 2,
+            "total_question_count": 5,
+            "pace": 0.58,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.5,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 14,
+      "topic": "Percent",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 40,
+      "total_question_count": 67,
+      "pace": 97.94,
+      "accuracy": 0.04,
+      "predicted_accuracy": 0.35,
+      "sw_value": 0.0,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 128,
+            "concept": "Percent Change (f-i/i*100)",
+            "attempted_question_count": 6,
+            "total_question_count": 8,
+            "pace": 0.74,
+            "accuracy": 0.05,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.15
+          },
+          {
+            "conceptid": 130,
+            "concept": "Fundamentals",
+            "attempted_question_count": 28,
+            "total_question_count": 47,
+            "pace": 139.71,
+            "accuracy": 0.06,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 127,
+            "concept": "Successive Change (a+b+ab/100)",
+            "attempted_question_count": 4,
+            "total_question_count": 7,
+            "pace": 0.3,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 129,
+            "concept": "Successive Change using Multiplication",
+            "attempted_question_count": 2,
+            "total_question_count": 5,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 16,
+      "topic": "Equations",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 85,
+      "total_question_count": 152,
+      "pace": 54.15,
+      "accuracy": 0.05,
+      "predicted_accuracy": 0.41,
+      "sw_value": 0.05,
+      "concepts": {
+        "strengths": [
+          {
+            "conceptid": 138,
+            "concept": "Quadratic Equations",
+            "attempted_question_count": 7,
+            "total_question_count": 9,
+            "pace": 0.36,
+            "accuracy": 0.1,
+            "predicted_accuracy": 0.14,
+            "sw_value": 0.45
+          }
+        ],
+        "weaknesses": [
+          {
+            "conceptid": 137,
+            "concept": "Linear Equations",
+            "attempted_question_count": 39,
+            "total_question_count": 68,
+            "pace": 13.54,
+            "accuracy": 0.06,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.08
+          },
+          {
+            "conceptid": 139,
+            "concept": "Fundamentals",
+            "attempted_question_count": 29,
+            "total_question_count": 32,
+            "pace": 139.85,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 140,
+            "concept": "Others",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 1.66,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.04,
+            "sw_value": 0.09
+          },
+          {
+            "conceptid": 149,
+            "concept": "Factorisation",
+            "attempted_question_count": 6,
+            "total_question_count": 7,
+            "pace": 1.29,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.43,
+            "sw_value": 0.02
+          },
+          {
+            "conceptid": 137,
+            "concept": "Linear Equations",
+            "attempted_question_count": 1,
+            "total_question_count": 27,
+            "pace": 2.92,
+            "accuracy": 1.0,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.08
+          },
+          {
+            "conceptid": 139,
+            "concept": "Fundamentals",
+            "attempted_question_count": 2,
+            "total_question_count": 8,
+            "pace": 2.23,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": 0.04
+          }
+        ],
+        "unattempted": []
+      }
+    },
+    {
+      "topicid": 17,
+      "topic": "Functions",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 19,
+      "total_question_count": 24,
+      "pace": 0.75,
+      "accuracy": 0.02,
+      "predicted_accuracy": 0.59,
+      "sw_value": 0.02,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 141,
+            "concept": "Defined Functions",
+            "attempted_question_count": 16,
+            "total_question_count": 21,
+            "pace": 0.89,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.42,
+            "sw_value": 0.07
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 142,
+            "concept": "Parabola",
+            "attempted_question_count": 3,
+            "total_question_count": 3,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.33,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 156,
+      "topic": "Sentence Correction",
+      "sectionid": 4,
+      "section": "verbal",
+      "attempted_question_count": 389,
+      "total_question_count": 2119,
+      "pace": 81.49,
+      "accuracy": 0.11,
+      "predicted_accuracy": 0.37,
+      "sw_value": 0.06,
+      "concepts": {
+        "strengths": [
+          {
+            "conceptid": 441,
+            "concept": "Grammar-Avoid & Preferred Rule",
+            "attempted_question_count": 27,
+            "total_question_count": 216,
+            "pace": 323.01,
+            "accuracy": 0.17,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.13
+          }
+        ],
+        "weaknesses": [
+          {
+            "conceptid": 184,
+            "concept": "Meaning",
+            "attempted_question_count": 2,
+            "total_question_count": 80,
+            "pace": 0.59,
+            "accuracy": 0.14,
+            "predicted_accuracy": 0.17,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 430,
+            "concept": "Grammar",
+            "attempted_question_count": 90,
+            "total_question_count": 446,
+            "pace": 35.96,
+            "accuracy": 0.09,
+            "predicted_accuracy": 0.05,
+            "sw_value": 0.02
+          },
+          {
+            "conceptid": 433,
+            "concept": "Meaning",
+            "attempted_question_count": 14,
+            "total_question_count": 0,
+            "pace": 525.1,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.17,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 436,
+            "concept": "Grammar-Parallelism",
+            "attempted_question_count": 84,
+            "total_question_count": 254,
+            "pace": 22.55,
+            "accuracy": 0.09,
+            "predicted_accuracy": 0.41,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 437,
+            "concept": "Grammar-Subject Verb Agreement",
+            "attempted_question_count": 18,
+            "total_question_count": 76,
+            "pace": 2.01,
+            "accuracy": 0.12,
+            "predicted_accuracy": 0.48,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 439,
+            "concept": "Grammar-Pronoun",
+            "attempted_question_count": 29,
+            "total_question_count": 156,
+            "pace": 51.96,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.36,
+            "sw_value": 0.09
+          },
+          {
+            "conceptid": 440,
+            "concept": "Grammar-Comparison",
+            "attempted_question_count": 16,
+            "total_question_count": 128,
+            "pace": 0.73,
+            "accuracy": 0.14,
+            "predicted_accuracy": 0.28,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 442,
+            "concept": "Grammar-Tense",
+            "attempted_question_count": 11,
+            "total_question_count": 95,
+            "pace": 1.09,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 443,
+            "concept": "Grammar-Preposition",
+            "attempted_question_count": 16,
+            "total_question_count": 162,
+            "pace": 2.1,
+            "accuracy": 0.08,
+            "predicted_accuracy": 0.32,
+            "sw_value": 0.07
+          },
+          {
+            "conceptid": 444,
+            "concept": "Grammar-Redundancy",
+            "attempted_question_count": 3,
+            "total_question_count": 43,
+            "pace": 1.19,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.39,
+            "sw_value": 0.06
+          },
+          {
+            "conceptid": 449,
+            "concept": "Grammar-Cause-Effect Rule",
+            "attempted_question_count": 5,
+            "total_question_count": 26,
+            "pace": 2.49,
+            "accuracy": 0.19,
+            "predicted_accuracy": 0.42,
+            "sw_value": 0.11
+          },
+          {
+            "conceptid": 451,
+            "concept": "Grammar-Singular vs Plural Construction",
+            "attempted_question_count": 8,
+            "total_question_count": 54,
+            "pace": 1.14,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.43,
+            "sw_value": 0.06
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 431,
+            "concept": "Grammar and Meaning",
+            "attempted_question_count": 52,
+            "total_question_count": 270,
+            "pace": 170.22,
+            "accuracy": 0.1,
+            "predicted_accuracy": 0.29,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 438,
+            "concept": "Grammar-Comma-Subject rule",
+            "attempted_question_count": 8,
+            "total_question_count": 52,
+            "pace": 1.7,
+            "accuracy": 0.17,
+            "predicted_accuracy": 0.21,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 445,
+            "concept": "Grammar-Words that do not exist",
+            "attempted_question_count": 2,
+            "total_question_count": 20,
+            "pace": 1.41,
+            "accuracy": 0.2,
+            "predicted_accuracy": 0.5,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 447,
+            "concept": "Grammar-Words followed by that",
+            "attempted_question_count": 1,
+            "total_question_count": 19,
+            "pace": 1.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.29,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 450,
+            "concept": "Grammar-Comma vs Semi Colon",
+            "attempted_question_count": 2,
+            "total_question_count": 9,
+            "pace": 0.53,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.62,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 452,
+            "concept": "Grammar-Countable vs Uncountable nouns",
+            "attempted_question_count": 1,
+            "total_question_count": 13,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.15,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 157,
+      "topic": "Critical Reasoning",
+      "sectionid": 4,
+      "section": "verbal",
+      "attempted_question_count": 300,
+      "total_question_count": 649,
+      "pace": 10.69,
+      "accuracy": 0.05,
+      "predicted_accuracy": 0.29,
+      "sw_value": 0.03,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 160,
+            "concept": "Assumption",
+            "attempted_question_count": 26,
+            "total_question_count": 90,
+            "pace": 1.05,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.36,
+            "sw_value": 0.01
+          },
+          {
+            "conceptid": 176,
+            "concept": "Fill in the blank (since/because)",
+            "attempted_question_count": 2,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 186,
+            "concept": "Paradox",
+            "attempted_question_count": 17,
+            "total_question_count": 59,
+            "pace": 0.84,
+            "accuracy": 0.03,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 193,
+            "concept": "Plan",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 200,
+            "concept": "Strengthen",
+            "attempted_question_count": 24,
+            "total_question_count": 86,
+            "pace": 1.03,
+            "accuracy": 0.06,
+            "predicted_accuracy": 0.3,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 207,
+            "concept": "Weaken",
+            "attempted_question_count": 40,
+            "total_question_count": 179,
+            "pace": 1.05,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.31,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 215,
+            "concept": "Explain",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 216,
+            "concept": "Except",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 254,
+            "concept": "Inference",
+            "attempted_question_count": 18,
+            "total_question_count": 69,
+            "pace": 2.38,
+            "accuracy": 0.04,
+            "predicted_accuracy": 0.24,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 401,
+            "concept": "Assumption",
+            "attempted_question_count": 19,
+            "total_question_count": 0,
+            "pace": 148.38,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.36,
+            "sw_value": 0.01
+          },
+          {
+            "conceptid": 402,
+            "concept": "Boldface",
+            "attempted_question_count": 13,
+            "total_question_count": 19,
+            "pace": 0.9,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.09,
+            "sw_value": 0.01
+          },
+          {
+            "conceptid": 403,
+            "concept": "Evaluate",
+            "attempted_question_count": 7,
+            "total_question_count": 19,
+            "pace": 1.83,
+            "accuracy": 0.09,
+            "predicted_accuracy": 0.39,
+            "sw_value": 0.07
+          },
+          {
+            "conceptid": 405,
+            "concept": "Flaw",
+            "attempted_question_count": 7,
+            "total_question_count": 19,
+            "pace": 1.06,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.41,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 407,
+            "concept": "Inference",
+            "attempted_question_count": 16,
+            "total_question_count": 0,
+            "pace": 1.89,
+            "accuracy": 0.06,
+            "predicted_accuracy": 0.24,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 409,
+            "concept": "Miscellaneous",
+            "attempted_question_count": 6,
+            "total_question_count": 39,
+            "pace": 0.39,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.28,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 411,
+            "concept": "Miscellaneous (EXCEPT)",
+            "attempted_question_count": 5,
+            "total_question_count": 22,
+            "pace": 2.43,
+            "accuracy": 0.11,
+            "predicted_accuracy": 0.34,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 412,
+            "concept": "Miscellaneous (Fill in the Blanks)",
+            "attempted_question_count": 22,
+            "total_question_count": 34,
+            "pace": 0.71,
+            "accuracy": 0.05,
+            "predicted_accuracy": 0.44,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 413,
+            "concept": "Paradox",
+            "attempted_question_count": 10,
+            "total_question_count": 0,
+            "pace": 1.47,
+            "accuracy": 0.03,
+            "predicted_accuracy": 0.37,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 414,
+            "concept": "Strengthen",
+            "attempted_question_count": 20,
+            "total_question_count": 0,
+            "pace": 2.67,
+            "accuracy": 0.03,
+            "predicted_accuracy": 0.3,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 415,
+            "concept": "Weaken",
+            "attempted_question_count": 39,
+            "total_question_count": 0,
+            "pace": 1.91,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.31,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 505,
+            "concept": "Miscellanoeus",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 404,
+            "concept": "Fill in the blanks",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 0.49,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 406,
+            "concept": "Grammar and Meaning",
+            "attempted_question_count": 1,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.29,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 410,
+            "concept": "Miscellaneous (Conversation type)",
+            "attempted_question_count": 3,
+            "total_question_count": 13,
+            "pace": 0.35,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.42,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    },
+    {
+      "topicid": 158,
+      "topic": "Reading Comprehension",
+      "sectionid": 4,
+      "section": "verbal",
+      "attempted_question_count": 304,
+      "total_question_count": 579,
+      "pace": 5.48,
+      "accuracy": 0.06,
+      "predicted_accuracy": 0.32,
+      "sw_value": 0.01,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [
+          {
+            "conceptid": 196,
+            "concept": "Primary Purpose",
+            "attempted_question_count": 36,
+            "total_question_count": 100,
+            "pace": 40.55,
+            "accuracy": 0.07,
+            "predicted_accuracy": 0.47,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 258,
+            "concept": "Location Based Inference",
+            "attempted_question_count": 50,
+            "total_question_count": 181,
+            "pace": 0.9,
+            "accuracy": 0.1,
+            "predicted_accuracy": 0.32,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 261,
+            "concept": "Location based",
+            "attempted_question_count": 3,
+            "total_question_count": 0,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          },
+          {
+            "conceptid": 417,
+            "concept": "Location Based",
+            "attempted_question_count": 50,
+            "total_question_count": 129,
+            "pace": 0.86,
+            "accuracy": 0.06,
+            "predicted_accuracy": 0.43,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 418,
+            "concept": "Location Based Inference",
+            "attempted_question_count": 56,
+            "total_question_count": 0,
+            "pace": 0.64,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.32,
+            "sw_value": 0.05
+          },
+          {
+            "conceptid": 419,
+            "concept": "Location Based Primary Purpose",
+            "attempted_question_count": 5,
+            "total_question_count": 9,
+            "pace": 0.17,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.44,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 420,
+            "concept": "Miscellaneous",
+            "attempted_question_count": 7,
+            "total_question_count": 28,
+            "pace": 0.78,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.28,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 421,
+            "concept": "Miscellaneous (Author's Intention)",
+            "attempted_question_count": 20,
+            "total_question_count": 44,
+            "pace": 0.81,
+            "accuracy": 0.07,
+            "predicted_accuracy": 0.36,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 422,
+            "concept": "Miscellaneous (EXCEPT)",
+            "attempted_question_count": 8,
+            "total_question_count": 20,
+            "pace": 0.86,
+            "accuracy": 0.02,
+            "predicted_accuracy": 0.34,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 423,
+            "concept": "Miscellaneous (Reasoning)",
+            "attempted_question_count": 10,
+            "total_question_count": 25,
+            "pace": 0.83,
+            "accuracy": 0.14,
+            "predicted_accuracy": 0.44,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 425,
+            "concept": "Passage Based Inference",
+            "attempted_question_count": 10,
+            "total_question_count": 25,
+            "pace": 0.42,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.17,
+            "sw_value": 0.03
+          },
+          {
+            "conceptid": 426,
+            "concept": "Primary Purpose",
+            "attempted_question_count": 24,
+            "total_question_count": 0,
+            "pace": 0.89,
+            "accuracy": 0.05,
+            "predicted_accuracy": 0.47,
+            "sw_value": 0.04
+          },
+          {
+            "conceptid": 429,
+            "concept": null,
+            "attempted_question_count": 18,
+            "total_question_count": 0,
+            "pace": 0.75,
+            "accuracy": 0.03,
+            "predicted_accuracy": 0.0,
+            "sw_value": 0.0
+          }
+        ],
+        "unattempted": [
+          {
+            "conceptid": 217,
+            "concept": "Except/Strengthen/Weaken - location",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 0.61,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 424,
+            "concept": "Miscellanoeus (Function)",
+            "attempted_question_count": 3,
+            "total_question_count": 10,
+            "pace": 0.93,
+            "accuracy": 0.07,
+            "predicted_accuracy": 0.33,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 427,
+            "concept": "Reasoning Based",
+            "attempted_question_count": 1,
+            "total_question_count": 1,
+            "pace": 0.13,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.0,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 428,
+            "concept": "Tone based",
+            "attempted_question_count": 1,
+            "total_question_count": 3,
+            "pace": 0.0,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.67,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 428,
+            "concept": "Tone Based",
+            "attempted_question_count": 1,
+            "total_question_count": 3,
+            "pace": 0.43,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.67,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    }
+  ],
+  "unattempted": [
+    {
+      "topicid": 15,
+      "topic": "Simple and Compound Interest",
+      "sectionid": 3,
+      "section": "quant",
+      "attempted_question_count": 6,
+      "total_question_count": 11,
+      "pace": 0.25,
+      "accuracy": 0.0,
+      "predicted_accuracy": 0.25,
+      "sw_value": -1.0,
+      "concepts": {
+        "strengths": [],
+        "weaknesses": [],
+        "unattempted": [
+          {
+            "conceptid": 132,
+            "concept": "Simple Interest using Formula",
+            "attempted_question_count": 3,
+            "total_question_count": 5,
+            "pace": 0.47,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.25,
+            "sw_value": -1.0
+          },
+          {
+            "conceptid": 133,
+            "concept": "Compound Interest using Formula",
+            "attempted_question_count": 3,
+            "total_question_count": 6,
+            "pace": 0.04,
+            "accuracy": 0.0,
+            "predicted_accuracy": 0.17,
+            "sw_value": -1.0
+          }
+        ]
+      }
+    }
+  ]
+}

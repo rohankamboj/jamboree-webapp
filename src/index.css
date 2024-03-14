@@ -1,0 +1,51 @@
+:root {
+  font-family: 'Public Sans', 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* color-scheme: light dark; */
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color: #242424; */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.truncate {
+  width: 170px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media only screen and (min-width: 900px) {
+  .css-1wd110o-MuiGrid-root .react-tel-input .form-control {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+}
+
+.full-width {
+  width: 100%;
+}
+
+.calender-date-picker {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.chart-tooltip {
+  padding: 10px;
+  background-color: #5d596c;
+  color: white;
+}
