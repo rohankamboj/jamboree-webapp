@@ -1,6 +1,6 @@
 // import reactLogo from './assets/react.svg';
 // import viteLogo from '/vite.svg';
-import React, { ErrorInfo, Suspense } from 'react'
+import React, { ErrorInfo, Suspense, useEffect } from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import { SettingsConsumer, SettingsProvider } from 'src/@core/context/settingsContext'
 import ThemeComponent from 'src/@core/theme/ThemeComponent'
@@ -92,6 +92,10 @@ const logError = (error: Error, info: ErrorInfo) => {
 }
 
 function App() {
+  useEffect(() => {
+    if (document.body.style && "zoom" in document.body.style)
+      document.body.style.zoom = 0.8;
+  }, []);
   return (
     <ErrorBoundary fallbackRender={fallbackRender} onError={logError}>
       <QueryClientProvider client={queryClient}>
